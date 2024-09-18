@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me email me at 0ct0lingWithZerosForOs@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns:
 - ⚡ Fun fact: I play semi-competitive Splatoon, and have helped send something to the edge of space.
 
 <!---
